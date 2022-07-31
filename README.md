@@ -1,3 +1,28 @@
+
+# Manualito
+Para acceder a los productos es necesario un usuario usted lo puede crear o utilizar un default [user: sagon@gmail.com, pass: sagon1].
+Usted tambien puede agregar productos en una direccion especial, se tendra que agregar /addproducts al final de la url en su local para agregar un producto
+procure tener una imagen .png o .jpeg cualquiera para agregar el producto, este sera alocado en firebase y lo podra visualizar en el componente de items.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
